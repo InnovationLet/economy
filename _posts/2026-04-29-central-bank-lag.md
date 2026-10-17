@@ -4,6 +4,14 @@ date: 2026-04-29 09:00:00 +0000
 author: "InnovationLet Editorial"
 tags: [Policy]
 description: "When a central bank raises rates, your bills don't jump overnight. The delay can make forecasts go off track for months."
+permalink: "/why-central-bank-moves-take-so-long-to-hit-you/"
+subtitle: "Rate decisions ripple through loans, cards and budgets over months, not days."
+keywords: "central banks, interest rates, monetary policy, transmission lag, inflation"
+key_points:
+  - "Policy rates influence other rates indirectly; the chain takes months."
+  - "Fixed-rate loans insulate many households for years after a hike."
+  - "Full effects of a rate change can take 12 to 18 months to show up."
+  - "Watch variable-rate debt and the pace of hikes, not a single decision."
 ---
 
 In January, a rate hike gets announced. By April, your credit card rate might still be the same. By July, your rent might not have budged. That gap isn't a glitch. It's the lag between a central bank decision and when it actually affects households.

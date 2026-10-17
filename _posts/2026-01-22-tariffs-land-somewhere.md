@@ -4,6 +4,14 @@ date: 2026-01-22 09:00:00 +0000
 author: "InnovationLet Editorial"
 tags: [Trade]
 description: "Tariffs don't disappear into thin air. They show up in prices, and the people paying often aren't the ones you expect."
+permalink: "/when-tariffs-hit-you-pay-for-them/"
+subtitle: "Tariffs are paid at the border, but the cost follows the supply chain to your receipts."
+keywords: "tariffs, trade policy, import tax, prices, inflation"
+key_points:
+  - "Tariffs are paid by importers at the border, not by foreign exporters."
+  - "Most of the cost is passed through manufacturers and retailers to consumers."
+  - "After the 2018 tariffs, U.S. steel prices jumped over 30% in months."
+  - "Lower-income households spend more of their budget on tariff-exposed goods."
 ---
 
 When a 10% tariff hits steel from overseas, the steel doesn't float through customs and stay the same price. In 2018, after tariffs went into effect, U.S. steel prices jumped by more than 30% in just months. That jump didn't vanish. Someone paid for it.

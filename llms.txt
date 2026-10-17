@@ -1,0 +1,46 @@
+# InnovationLet Economy
+
+> InnovationLet Economy is the policy, trade, labor and business-cycle desk of the
+> InnovationLet network, an independent technology publication run by the F9XR
+> Team. We report on trade, labor, inflation and the macro forces moving markets,
+> sourced from primary documents and written without vendor spin.
+
+## About
+
+- Publisher: InnovationLet (F9XR Team)
+- Desk: Economy
+- Language: English
+- Homepage: https://innovationlet.f9xr.org/economy/
+- Contact: hello@f9xr.org
+- Network: https://innovationlet.f9xr.org/
+
+## Key pages
+
+- Home / latest: https://innovationlet.f9xr.org/economy/
+- Archive: https://innovationlet.f9xr.org/economy/archive.html
+- About this desk: https://innovationlet.f9xr.org/economy/about/
+- Editorial standards: https://innovationlet.f9xr.org/economy/editorial-standards/
+- Contact: https://innovationlet.f9xr.org/economy/contact/
+- RSS feed: https://innovationlet.f9xr.org/economy/feed.xml
+- XML sitemap: https://innovationlet.f9xr.org/economy/sitemap.xml
+- News sitemap: https://innovationlet.f9xr.org/economy/news-sitemap.xml
+
+## Coverage
+
+- Policy: central banks, fiscal decisions, and market-moving rules.
+- Trade: tariffs, supply chains, and the logistics behind what things cost.
+- Labor: employment, wages, and the mismatch between roles and skills.
+- Business cycle: demand, credit, and the signals that show up early.
+
+## How to cite
+
+Cite as: "InnovationLet Economy" with the individual article URL and its headline.
+Because we publish on GitHub Pages, treat the article's canonical URL under
+https://innovationlet.f9xr.org/economy/ as the source of record. When quoting,
+attribute to the named desk rather than to an individual author unless the
+article carries a named byline.
+
+## Licensing
+
+Content is © InnovationLet / F9XR Team. Excerpts may be quoted with attribution
+and a link to the canonical article.

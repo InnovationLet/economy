@@ -4,6 +4,14 @@ date: 2026-03-05 09:00:00 +0000
 author: "InnovationLet Editorial"
 tags: [Labor]
 description: "Wage numbers often look outdated by the time they're published, and that can lead policy makers to make decisions too late."
+permalink: "/the-hidden-lag-in-wage-data/"
+subtitle: "The wage number you read in March may describe November, and policy acts on the lag."
+keywords: "wage data, employment statistics, ECI, payrolls, monetary policy"
+key_points:
+  - "Payroll and ECI data are collected and revised weeks after the fact."
+  - "Central banks risk mistiming policy when wage signals are months old."
+  - "Job postings and payroll-company data show shifts faster than official reports."
+  - "Treat the latest wage headline as a rearview-mirror snapshot, not live conditions."
 ---
 
 It's March, but the wage number you're reading might be describing November. That's not a typo. The most cited wage data in the U.S. comes from surveys that take weeks to collect and process, creating a lag that can mislead policy decisions.
